@@ -1,0 +1,43 @@
+Bài 1: Biến, Kiểu Dữ liệu
+	int, float  double, char ( số nguyên thì sài int, số thực thì float..., ký tự thì char)	
+	Định dạng (%d hoặc %i, %c, %f)
+
+Bài 2: Nhập xuất dữ liệu và define. 
+	Nhập xuất: 	printf, scanf,
+			Bề rộng trường.
+	
+	Define		
+			define có mấy loại.
+
+Bài 3: Toán tử
+	1. Toán tử số học: +, -, *, /, %
+	2. Toán từ quan hệ: >, >= , <, <=, ==, !=
+
+Bài 4: Câu lệnh rẽ nhánh:
+	Lệnh và khối lệnh:
+		Lệnh là 1 dòng... kết thúc bằng ;
+		Khối lệnh là gồm lệnh được bao bọc trong {}
+
+	2 loại:
+		+ Câu lệnh if
+				Loại 1: if thiếu.		 1 vế 
+				Loại 2:	if đủ			 2 vế 
+				Loại 3:	if dư			 3 vế 
+	 
+				Loại 4:	3 thg trên nó lồng vô nhau.
+				
+
+		+ Câu lệnh switch
+				Loại 1:	switch thiếu ( không có chữ defaule)
+				Loại 2:	switch đủ
+
+	=> Các 2 bổ ngữ để điều khiển 2 loại trên: break, continue, goto, exit.
+
+
+Bài 5 Vòng lặp
+	3 loại
+		loại 1: for ( Biết đc số lần lặp)
+		Loại 2: while ( không biết số lần lăp)
+		Loại 3 do while (thực hiện trc, rồi tính sau)
+
+Bài 6  Hàm
