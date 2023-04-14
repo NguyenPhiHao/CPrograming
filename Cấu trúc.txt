@@ -6,12 +6,13 @@ Bài 3: Trình biên dịch để chạy và các câu lệnh để chạy
 
 
 Chương 2 Các thành phần trong C
-Bài 1: Biến
-Bài 2: Kiểu Dữ liệu
-Bài 3: Nhập xuất dữ liệu
-Bài 4: Define
-Bài 5: Toán tử
-Bài 6: Lệnh và khối lệnh
+Bài 1: Comment
+Bài 2: Biến
+Bài 3: Kiểu Dữ liệu
+Bài 4: Nhập xuất dữ liệu
+Bài 5: Define
+Bài 6: Toán tử
+Bài 7: Lệnh và khối lệnh
 
 
 
