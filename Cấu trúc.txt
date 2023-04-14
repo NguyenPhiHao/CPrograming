@@ -2,7 +2,7 @@ Chương 1: Giới thiệu
 Bài 1: giới thiệu về C
 Bài 2: Cài đặt môi trường để chạy
 Bài 3: Trình biên dịch để chạy và các câu lệnh để chạy
-Bài 4: Debug
+
 
 
 Chương 2 Các thành phần trong C
