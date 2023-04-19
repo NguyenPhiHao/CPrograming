@@ -19,8 +19,8 @@ Bài 8: Lệnh và khối lệnh
 
 
 
-Chương 3: Câu lệnh rẽ nhánh
-Bài 1: if:
+Chương 3: Câu trúc rẽ nhánh có điều kiện
+Bài 1: Câu lệnh if:
 
 	Loại 1: if thiếu.		 1 vế 
 	Loại 2:	if đủ			 2 vế 
@@ -32,18 +32,15 @@ Bài 1: if:
 Bài 2: Câu lệnh switch
 	Loại 1:	switch thiếu ( không có chữ defaule)
 	Loại 2:	switch đủ
+      switch lồng vô nhau
 	
 	Bài tập
-Bài 3: Câu lệnh điều khiển
-	Có 4 bổ ngữ để điều khiển 2 loại trên: break, continue, goto, exit.
-
-
-
-
 Chương 4: Vòng lặp
 Bài 1: Vòng lặp for
 Bài 2:while
 Bài 3:do while
+Bài 4: Câu lệnh điều khiển
+	Có 4 bổ ngữ để điều khiển 2 loại trên: break, continue, goto, exit.
 
 
 Chương 5: Hàm
