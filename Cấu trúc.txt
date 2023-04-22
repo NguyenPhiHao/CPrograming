@@ -36,11 +36,12 @@ Bài 2: Câu lệnh switch
 	
 	Bài tập
 Chương 4: Vòng lặp
-Bài 1: Vòng lặp for
-Bài 2:while
-Bài 3:do while
-Bài 4: Câu lệnh điều khiển
-	Có 4 bổ ngữ để điều khiển 2 loại trên: break, continue, goto, exit.
+Bài 1:Vòng lặp for
+Bài 2:Vòng lặp while
+Bài 3:Vòng lặp do ... while
+Bài 4:Vòng lặp lồng nhau
+Bài 5:Câu lệnh điều khiển
+	Có 4 bổ ngữ để điều khiển 2 loại trên: break, continue, goto.
 
 
 Chương 5: Hàm
