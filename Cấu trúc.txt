@@ -46,3 +46,5 @@ Bài 5:Câu lệnh điều khiển
 
 Chương 5: Hàm
 Bài 1  Hàm
+Bài 2 Truyền tham chiếu và truyền tham trị
+
