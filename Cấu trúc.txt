@@ -49,3 +49,7 @@ Bài 1  Hàm
 Bài 2 Truyền tham chiếu và truyền tham trị
 Bài 3 Hàm đệ quy
 
+Chương 6: Mảng
+Bài 1 Mảng 1 chiều
+Bài 2 Mảng 2 chiều
+Bài 3 Truyền mảng vào hàm
