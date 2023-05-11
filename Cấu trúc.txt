@@ -53,3 +53,5 @@ Chương 6: Mảng
 Bài 1 Mảng 1 chiều
 Bài 2 Mảng 2 chiều
 Bài 3 Truyền mảng vào hàm
+Chương 7: Chuỗi
+
