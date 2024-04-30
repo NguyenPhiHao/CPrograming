@@ -1,5 +1,10 @@
-int foo = 20; // Bắt đầu từ 20 ??/
-int bar = 0;
-// Dòng sau sẽ gây lỗi biên dịch (biến 'bar' chưa được khai báo)
-// vì 'int bar = 0;' là một phần của chú thích trên dòng trước đó
-bar += foo;
+#include <stdio.h>
+
+int main(){
+    char ch = 'a';
+printf("%zu\n", sizeof(ch)); /* Hợp lệ, sẽ in ra kích thước của một đối tượng char,
+                              * luôn là 1 cho mọi nền tảng. */
+printf("%zu\n", sizeof ch); /* Hợp lệ, sẽ in ra kích thước của một đối tượng char, 
+                             *luôn là 1 cho mọi nền tảng. */
+
+}
