@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-int main(){
-    char ch = 'a';
-printf("%zu\n", sizeof(ch)); /* Hợp lệ, sẽ in ra kích thước của một đối tượng char,
-                              * luôn là 1 cho mọi nền tảng. */
-printf("%zu\n", sizeof ch); /* Hợp lệ, sẽ in ra kích thước của một đối tượng char, 
-                             *luôn là 1 cho mọi nền tảng. */
-
+int main() {
+    int x = 10;
+    int y = 5 ??- 2;  // Lẽ ra là phép trừ, nhưng bị thay thành phép NOT bitwise
+    printf("Kết quả là: %d\n", y);
+    return 0;
 }
