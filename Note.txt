@@ -1,0 +1,5 @@
+Tôi đang học Misra C, đóng vai trò là 1 chuyên gia misra, bạn hãy viết lại đoạn văn này sao cho thật sự dễ hiểu với người đọc và tiếp thu 1 cách nhanh chóng.
+
+Nắm các câu hỏi khi đi PV.
+Nắm được genrate code.
+SDCL
